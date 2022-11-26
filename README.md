@@ -1,9 +1,7 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+<p align="center">
+<img src="https://i.ytimg.com/vi/jYFyLLqvHy8/maxresdefault.jpg" alt="Alt text" width="350">
+<p align="center">
 
 ## Installation
 
